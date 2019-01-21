@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\OSI\OSI\bin\Debug\OSI.exe.config
+C:\Users\Administrator\source\repos\OSI\OSI\bin\Debug\OSI.exe
+C:\Users\Administrator\source\repos\OSI\OSI\bin\Debug\OSI.pdb
+C:\Users\Administrator\source\repos\OSI\OSI\obj\Debug\OSI.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\OSI\OSI\obj\Debug\OSI.Form1.resources
+C:\Users\Administrator\source\repos\OSI\OSI\obj\Debug\OSI.Properties.Resources.resources
+C:\Users\Administrator\source\repos\OSI\OSI\obj\Debug\OSI.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\OSI\OSI\obj\Debug\OSI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\OSI\OSI\obj\Debug\OSI.exe
+C:\Users\Administrator\source\repos\OSI\OSI\obj\Debug\OSI.pdb
